@@ -1,8 +1,10 @@
 # CSV to associative array
 
+This package contains only a lightweight (587 bytes) namespaced function.
+
 ## What?
 
-From this:
+Get your CSV as an associative array. From this:
 
 ```csv
 name,email
