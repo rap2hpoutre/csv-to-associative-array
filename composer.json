@@ -12,6 +12,6 @@
         }
     ],
     "autoload": {
-        "files": ["src/csv-to-associative-array.php"]
+        "files": ["src/csv_to_associative_array.php"]
     }
 }
