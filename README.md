@@ -1,6 +1,6 @@
 # CSV to associative array
 
-This package contains only a lightweight (587 bytes) namespaced function.
+This package contains only a lightweight (587 bytes) function: `csv_to_associative_array`
 
 ## What?
 
