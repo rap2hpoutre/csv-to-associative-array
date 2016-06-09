@@ -2,7 +2,9 @@
 
 namespace Rap2hpoutre\Csv;
 
-
+/**
+ * No comments, just read that dirty code :P
+ */
 function csv_to_associative_array($file, $delimiter = ',', $enclosure = '"') 
 {
     if (($handle = fopen($file, "r")) !== false) {
