@@ -1,0 +1,17 @@
+{
+    "name": "rap2hpoutre/csv-to-associative-array",
+    "description": "CVS to associative array",
+    "keywords": ["csv", "array"],
+    "homepage": "https://github.com/rap2hpoutre/csv-to-associative-array",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raphael",
+            "email": "raphaelht@gmail.com",
+            "homepage": "http://raph.site"
+        }
+    ],
+    "autoload": {
+        "files": ["src/csv-to-associative-array.php"]
+    }
+}
