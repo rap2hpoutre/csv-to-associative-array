@@ -1,10 +1,10 @@
 # CSV to associative array
 
-This package contains only a lightweight (587 bytes) function: `csv_to_associative_array`
+This package only contains a 587 bytes function: `csv_to_associative_array`.
 
 ## What?
 
-Get your CSV as an associative array. From this:
+Get your CSV file as an associative array. From this:
 
 ```csv
 name,email
