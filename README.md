@@ -9,11 +9,12 @@ Get your CSV file as an associative array. From this:
 ```csv
 name,email
 raphael,raphael@example.org
+lisa,lisa@example.org
 ```
 
 To this:
 ```php
-[ ['name' => 'raphael', 'name' => 'raphael@example.org'] ]
+[ ['name' => 'raphael', 'email' => 'raphael@example.org'], ['name' => 'lisa', 'email' => 'lisa@example.org'] ]
 ```
 
 ## How?
