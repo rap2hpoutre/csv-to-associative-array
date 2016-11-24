@@ -14,7 +14,10 @@ lisa,lisa@example.org
 
 To this:
 ```php
-[ ['name' => 'raphael', 'email' => 'raphael@example.org'], ['name' => 'lisa', 'email' => 'lisa@example.org'] ]
+[ 
+  ['name' => 'raphael', 'email' => 'raphael@example.org'], 
+  ['name' => 'lisa', 'email' => 'lisa@example.org'] 
+]
 ```
 
 ## How?
