@@ -16,7 +16,7 @@ To this:
 ```php
 [ 
   ['name' => 'raphael', 'email' => 'raphael@example.org'], 
-  ['name' => 'lisa', 'email' => 'lisa@example.org'] 
+  ['name' => 'lisa',    'email' => 'lisa@example.org'] 
 ]
 ```
 
